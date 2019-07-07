@@ -1,7 +1,7 @@
 # Moringa_Data_Science_Prep_W2_Independent_Project_2019_06_Josephine_Wanjiku_SQL_Notebook.
 WEEK 2 SQL INDEPENDENT PROJECT 
 # {SQL Programming}
-#### {Project to assist a candidate to become the US president}, {June,2019}
+#### {Project to assist a candidate to win the US presidential elections}, {June,2019}
 #### By **{Josephine Wanjiku}**
 ## Description
 The primary objective is to assist a candidate to become a US president.
