@@ -2,20 +2,20 @@
 WEEK 2 SQL INDEPENDENT PROJECT 
 # {SQL Programming}
 #### {Project to assist a candidate to become a US president}, {June,2019}
-#### By **{Josephine Wanjiku**
+#### By **{Josephine Wanjiku}**
 ## Description
 {}The primary objective is to assist a candidate to become a US president. 
-The winner is the candidate with the most grand-electors.
-Grand electors are attributed at the state level in each of the 51 states.
-In each of the 51 states, there is a given number of grand electors to win (roughly, but not exactly, proportional to the size of the state). 
-The presidential candidate receiving the most local votes wins ALL the Grand Electors in that state.
-Since the no. of grand electors is not proportional to the population, some states can be prioritized to increase the ROI of the campaign
-Assumptions:
- There are only 2 candidates,
- No history (no trend of certain states to vote for a particular candidate or party)
- Each vote is equally ‘expensive’ to get and
- Some states grant more grand elector per capita
-Required:
+* The winner is the candidate with the most grand-electors.
+*Grand electors are attributed at the state level in each of the 51 states.
+*In each of the 51 states, there is a given number of grand electors to win (roughly, but not exactly, proportional to the size of the state). 
+*The presidential candidate receiving the most local votes wins ALL the Grand Electors in that state.
+*Since the no. of grand electors is not proportional to the population, some states can be prioritized to increase the ROI of the campaign
+*Assumptions:
+ -*There are only 2 candidates,
+ -*No history (no trend of certain states to vote for a particular candidate or party)
+ -Each vote is equally ‘expensive’ to get and
+ -*Some states grant more grand elector per capita
+*Required:
  Identify the states that should be prioritized to win the election with a smart but simple algorithm.
  The main aim is to look for a strategy that makes sense and not to look for an overall optimum
 ## Setup/Installation Requirements
